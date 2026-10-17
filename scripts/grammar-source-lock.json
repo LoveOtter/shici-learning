@@ -1,0 +1,474 @@
+[
+  {
+    "repository": "ShenHongFei/jp-grammar-guide",
+    "revision": "4df92cfbf0bd7b6ed73e3af913951dfe6e58278f",
+    "files": [
+      {
+        "path": "LICENSE",
+        "sha": "9718aba5f0bae34d443b39ff776821ca7d053a86",
+        "size": 1506
+      },
+      {
+        "path": "README.md",
+        "sha": "16c6fcfcdc0fc64c3e074550cf11dded6c7a5f6c",
+        "size": 820
+      },
+      {
+        "path": "actionclause.html",
+        "sha": "94c773b7aa2d0ad259ed67492e772a1dea713c8b",
+        "size": 18429
+      },
+      {
+        "path": "adjectives.html",
+        "sha": "c1e0d6e55ff4aa83db1a17126c745a5359265a47",
+        "size": 22693
+      },
+      {
+        "path": "adjectives_ex.html",
+        "sha": "04a8d2b2fb01ccd25d9fc8940b38102067b976ca",
+        "size": 20770
+      },
+      {
+        "path": "advanced.html",
+        "sha": "771b5b754afc9085cfff9f842b966d32d2673704",
+        "size": 4717
+      },
+      {
+        "path": "adverbs.html",
+        "sha": "5eca4a2567a0994c231456dce72874d1b30433b3",
+        "size": 15530
+      },
+      {
+        "path": "amount.html",
+        "sha": "02ebb2720d61aec4abd2dcae67edee71291d47f9",
+        "size": 52023
+      },
+      {
+        "path": "appendix.html",
+        "sha": "527dd89d36f3b75fd271df93de27a9497cd3ea1f",
+        "size": 34279
+      },
+      {
+        "path": "basic.html",
+        "sha": "4adfad9cdfc33be5cb586c8fc53a9a6382db0c1f",
+        "size": 4331
+      },
+      {
+        "path": "causepass.html",
+        "sha": "95c912219c010a1ef6fb9175a451e57c4442066b",
+        "size": 48398
+      },
+      {
+        "path": "certainty.html",
+        "sha": "8ad6669d334b8ce9b931b80f1fb83ef84ff337c5",
+        "size": 16944
+      },
+      {
+        "path": "clause.html",
+        "sha": "73e0e657892bbe31660d33e93a3702c9dae46e36",
+        "size": 16663
+      },
+      {
+        "path": "comparison.html",
+        "sha": "158babdf5d4e2c021e1f7b50d8ab3ad7826816d2",
+        "size": 27610
+      },
+      {
+        "path": "compound.html",
+        "sha": "5e812afbf3d330b88d44ea5e08b7303fa80f40c7",
+        "size": 46456
+      },
+      {
+        "path": "conditionals.html",
+        "sha": "1804bfecbd83ed27c8dac708cf86d43f7db088c9",
+        "size": 28429
+      },
+      {
+        "path": "covered.html",
+        "sha": "77589771d024af6000ae9d855c1cd69d20214519",
+        "size": 12965
+      },
+      {
+        "path": "define.html",
+        "sha": "e51a6c272e86b0a7e1d298d549bd795ab460b236",
+        "size": 31289
+      },
+      {
+        "path": "desire.html",
+        "sha": "e5d32c3cf985bc8270144c92cf37868cdac57d01",
+        "size": 31832
+      },
+      {
+        "path": "easyhard.html",
+        "sha": "e4b151470eb5be95ddae84f6a6c521bff1ee9fd5",
+        "size": 13737
+      },
+      {
+        "path": "essential.html",
+        "sha": "69a3fa5f0f336808fc288a22666bc884bbade546",
+        "size": 6400
+      },
+      {
+        "path": "even.html",
+        "sha": "de44c9f57a12891b791acc428c5edb109fbd1e8a",
+        "size": 15250
+      },
+      {
+        "path": "favors.html",
+        "sha": "721d1b75553e9870d1665995f56b705b617db156",
+        "size": 29421
+      },
+      {
+        "path": "feasibility.html",
+        "sha": "78c2e61f7b3ddb9ca993aba48b647381aef0255e",
+        "size": 15478
+      },
+      {
+        "path": "formal.html",
+        "sha": "7530ef56370f939ee1911fe1d4301be2dcecfb57",
+        "size": 15092
+      },
+      {
+        "path": "gakusei.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "genericnouns.html",
+        "sha": "ad7dd8b947c7c38739d4c1eb716628658464bbe3",
+        "size": 14228
+      },
+      {
+        "path": "hiragana.html",
+        "sha": "20b9b1fffd488cd52cc22dc14dd6315a94254fd5",
+        "size": 28063
+      },
+      {
+        "path": "hiragana_ex.html",
+        "sha": "d9d449a700aeaee1e253f26b31c3e2674ee24818",
+        "size": 23956
+      },
+      {
+        "path": "honorific.html",
+        "sha": "ee5d54bb791db456c5f36a8333ec7f04215cb08b",
+        "size": 45806
+      },
+      {
+        "path": "immedate.html",
+        "sha": "5ff0d232a4bd65f1f91f83ffdded9728a2f8afdb",
+        "size": 13273
+      },
+      {
+        "path": "in-transitive.html",
+        "sha": "d4142ebad283e0db99f1d057b7305a343a90368c",
+        "size": 11177
+      },
+      {
+        "path": "index.html",
+        "sha": "dea49e6501fdffa041222859a87178766e74a8e5",
+        "size": 12539
+      },
+      {
+        "path": "introduction.html",
+        "sha": "83ae166e17a7f78a2c96f2fd2026aa6f67b4d742",
+        "size": 9561
+      },
+      {
+        "path": "kanji.html",
+        "sha": "a9a30a856c3ce1c2c00b566a7240a8f62486a243",
+        "size": 11123
+      },
+      {
+        "path": "kappu.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "katakana.html",
+        "sha": "565fe2ed826919c4e9c5ca2ba728b738506baeb6",
+        "size": 20569
+      },
+      {
+        "path": "katakana_ex.html",
+        "sha": "eb27a5bf3de0942abe654319438ed56408f261fa",
+        "size": 24965
+      },
+      {
+        "path": "keiki.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "kyou.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "meeru.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "must.html",
+        "sha": "72faaa4e02412e22fd65451075a15d06b1f125b6",
+        "size": 24851
+      },
+      {
+        "path": "negativeverbs.html",
+        "sha": "b846ad5ce5010b25c2952538e20f22dde2f4fbae",
+        "size": 12143
+      },
+      {
+        "path": "negativeverbs2.html",
+        "sha": "d27863536a6e676fcad394a8e429f8c52b33ec40",
+        "size": 22100
+      },
+      {
+        "path": "negativeverbs_ex.html",
+        "sha": "ecdfbeda2fe18941c0342b352dce56ac8bf2a373",
+        "size": 10292
+      },
+      {
+        "path": "nochange.html",
+        "sha": "a1e34ef569768afa3de4d61e9f861602ff9aafb9",
+        "size": 12339
+      },
+      {
+        "path": "nounparticles.html",
+        "sha": "57e02e91b6f3f521e8a115d34a786f43c9081d30",
+        "size": 33737
+      },
+      {
+        "path": "numbers.html",
+        "sha": "bcbfa575fa86b15899cd439dbd5aa492ab1e6797",
+        "size": 50741
+      },
+      {
+        "path": "ohayou.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "okaasan.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "other.html",
+        "sha": "8ac515b78058344c3fa7755bdbb8aa7b41f1e330",
+        "size": 11457
+      },
+      {
+        "path": "particlesintro.html",
+        "sha": "f076c3787e961fe71704a92b2570e1496b681f2f",
+        "size": 14752
+      },
+      {
+        "path": "particlesintro_ex.html",
+        "sha": "b4f24cb2b2517c69ef9b5fb5c6248245945aef55",
+        "size": 17898
+      },
+      {
+        "path": "past_tense.html",
+        "sha": "7959d5d0c3d150db5f98351a0e07d461c2d4855e",
+        "size": 16824
+      },
+      {
+        "path": "pasttense_ex.html",
+        "sha": "364765e0454467810c7295991724b9a278906ad3",
+        "size": 15833
+      },
+      {
+        "path": "people.html",
+        "sha": "2e5f52bb682e160ef174f982231271ae97ec8b23",
+        "size": 19406
+      },
+      {
+        "path": "polite.html",
+        "sha": "dff4de4be41d8e73d0bb9ba51b1647665e06dc4d",
+        "size": 35047
+      },
+      {
+        "path": "potential.html",
+        "sha": "0d830ccd2748863b61e1e796b43d840f1bbdf11c",
+        "size": 26806
+      },
+      {
+        "path": "question.html",
+        "sha": "5abb6c2b8671f66d098e06310f03446447fddff7",
+        "size": 26836
+      },
+      {
+        "path": "reasoning.html",
+        "sha": "a54b7ea3a09c04191484f5c53d1eee985c50b824",
+        "size": 19334
+      },
+      {
+        "path": "requests.html",
+        "sha": "26a5a564a1ef305d364b2bada6cd455a2da84f37",
+        "size": 32902
+      },
+      {
+        "path": "sensei.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "sentence_ending.html",
+        "sha": "bbc9fc2c9b713cfbefe95a672a97d3e24c6230d8",
+        "size": 32786
+      },
+      {
+        "path": "should.html",
+        "sha": "4aa1406cf69de12b9b19ecbe1e2edd840345147e",
+        "size": 22478
+      },
+      {
+        "path": "signs.html",
+        "sha": "404e414b8fc29fbefb0b6c42fa9620d3b34f0a82",
+        "size": 20646
+      },
+      {
+        "path": "similarity.html",
+        "sha": "8e440f5c74841cf0ef15e24e9aed1d060def8817",
+        "size": 36214
+      },
+      {
+        "path": "slang.html",
+        "sha": "98d6556d3a10c4a65ac29c6702956853fe270ee5",
+        "size": 26686
+      },
+      {
+        "path": "specialexpressions.html",
+        "sha": "6889b8644ac3f97cacc7c219a6e3912fd14f30d9",
+        "size": 5033
+      },
+      {
+        "path": "stateofbeing.html",
+        "sha": "546db04883f74badb4eaa4dc95a40fd820f9a713",
+        "size": 11685
+      },
+      {
+        "path": "stateofbeing_ex.html",
+        "sha": "f830d3a4f51e1d959e9ed76b722e7758b45e376e",
+        "size": 21113
+      },
+      {
+        "path": "surunaru.html",
+        "sha": "adfc03f4859ccb7c10ee911a552715c13858b545",
+        "size": 17109
+      },
+      {
+        "path": "teform.html",
+        "sha": "dc5589402c3e14b9e7745331dc2b301d9e9a7184",
+        "size": 32887
+      },
+      {
+        "path": "tendency.html",
+        "sha": "c6e624e122b9ac61922fd7dce490830e58a6c486",
+        "size": 17677
+      },
+      {
+        "path": "timeactions.html",
+        "sha": "37f2e3525ca7f0b17f4e69b075f25189edd0a1ee",
+        "size": 31023
+      },
+      {
+        "path": "torakku.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "try.html",
+        "sha": "d71affb990b08b3c93a4ed2703f2b7a2bf307828",
+        "size": 15777
+      },
+      {
+        "path": "tsua.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      },
+      {
+        "path": "unintended.html",
+        "sha": "8286b9b2e22795b6878982cfdff3871818db1815",
+        "size": 14691
+      },
+      {
+        "path": "verbparticles.html",
+        "sha": "0ef0c15a80a1f133898c9f2d7f6e35edaa040eb5",
+        "size": 27537
+      },
+      {
+        "path": "verbs.html",
+        "sha": "6761848295c14f59308a6862d17ed0ec34f03df2",
+        "size": 15690
+      },
+      {
+        "path": "verbs_ex.html",
+        "sha": "8dbaa46ad4c73b5a21eaec53fa240ce51d8c7619",
+        "size": 12992
+      },
+      {
+        "path": "volitional2.html",
+        "sha": "28a2068e9c5e9ba38f2aec3a87ac78ddcca70127",
+        "size": 22113
+      },
+      {
+        "path": "writing.html",
+        "sha": "e015b10c659f6e76b69090a4baf1ed06036796f8",
+        "size": 5457
+      },
+      {
+        "path": "zasshi.html",
+        "sha": "42a2dffd41e2febd12d17b152b6a7e7782da5fe5",
+        "size": 9383
+      }
+    ]
+  },
+  {
+    "repository": "jkindrix/japanese-language-data",
+    "revision": "04014e06019fc9d4af76e6dbb64ec709fe863c4d",
+    "files": [
+      {
+        "path": "ATTRIBUTION.md",
+        "sha": "e6e6a8d4b1c89285e0627b668e6a1d01d482a645",
+        "size": 14634
+      },
+      {
+        "path": "LICENSE",
+        "sha": "8dcdb96360320d96b34b89478c644f0aa8f7029d",
+        "size": 10198
+      },
+      {
+        "path": "README.md",
+        "sha": "e96b26eceb4c05169b8971266d6d64a50f91f957",
+        "size": 17056
+      },
+      {
+        "path": "grammar-curated/n1.json",
+        "sha": "df5f8d618243dbb3370d8051a80b7861388f0761",
+        "size": 248649
+      },
+      {
+        "path": "grammar-curated/n2.json",
+        "sha": "cd187dc121e0feb772a641eb6626aeedea8a86c4",
+        "size": 261099
+      },
+      {
+        "path": "grammar-curated/n3.json",
+        "sha": "38a12a3db9f86cee8ad00ace1ffb8778630c8547",
+        "size": 241022
+      },
+      {
+        "path": "grammar-curated/n4.json",
+        "sha": "7abadb820e1ef520775fae54bfa5f8cadaaee101",
+        "size": 162072
+      },
+      {
+        "path": "grammar-curated/n5.json",
+        "sha": "cae20955c5f198a09b69305a90858eb128bb5c92",
+        "size": 121373
+      }
+    ]
+  }
+]

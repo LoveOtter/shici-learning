@@ -1,0 +1,7 @@
+node_modules/
+dist/
+data/
+.cache/
+.venv/
+_site/
+__pycache__/

@@ -1,0 +1,15 @@
+:root{font-size:calc(16px * var(--font-scale,1.2))}
+.font-controls{display:flex;justify-content:flex-end;align-items:center;flex-wrap:wrap;gap:7px;padding:16px 0 0;font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif;font-size:16px;color:var(--green)}
+.font-controls-label{margin-right:5px}
+.font-controls button{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;padding:8px 10px;border:1px solid var(--border);border-radius:10px;background:var(--paper);font-size:16px;line-height:1.2;font-weight:600;touch-action:manipulation}
+.font-controls button:disabled{opacity:.4}
+.font-controls output{min-width:48px;text-align:center;font-size:14px;font-variant-numeric:tabular-nums}
+.font-controls .font-reset{font-size:14px;font-weight:400}
+.font-save-message:empty{display:none}
+.font-save-message:not(:empty){flex-basis:100%;font-size:14px;line-height:1.6;text-align:right}
+.topbar{height:auto;min-height:105px;gap:12px;flex-wrap:wrap;padding:18px 0}
+main,.catalog-row,.grammar-card,.source-strip,.source-details,.lan-note{overflow-wrap:anywhere}
+.pagination,.grammar-pagination{flex-wrap:wrap}
+.catalog-tools .searchbox{min-width:min(160px,100%);max-width:100%;flex:1 1 180px}
+.catalog-tools select{max-width:100%}
+@media(max-width:680px){.topbar{min-height:81px;padding:14px 0}.font-controls{gap:5px;justify-content:center}.font-controls-label{margin-right:3px}.catalog-tools select{max-width:100%}.grammar-tools .searchbox{min-width:0;max-width:100%}}

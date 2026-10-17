@@ -1,0 +1,20 @@
+{
+  "name": "shici-english",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "start": "node serve.mjs",
+    "data:import": "python scripts/import-eggrolls.py --project . --work .cache/eggrolls-import",
+    "data:import:grammar": "python scripts/import-grammar.py --project . --work .cache/grammar-import",
+    "data:import:english": "python scripts/import-english.py"
+  },
+  "dependencies": {
+    "ts-fsrs": "5.2.3"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}
